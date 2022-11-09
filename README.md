@@ -35,9 +35,9 @@ Entre na pasta ```docker```:
 cd docker
 ```
 Para executar o container, utilize o seguinte comando (sendo a flag -d para executar em segundo plano):
-`
+```
 docker-compose up -d
-`
+```
 
 ##
 
