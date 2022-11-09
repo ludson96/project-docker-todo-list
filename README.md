@@ -34,9 +34,7 @@ Entre na pasta ```docker```:
 ```
 cd docker
 ```
-Para executar o dockerfile do front-end ou back-end, entre na pasta especidifca 
-
-Para executar o container, utilize o seguinte comando (utilize a flag -d para executar em segundo plano):
+Para executar o container, utilize o seguinte comando (sendo a flag -d para executar em segundo plano):
 `
 docker-compose up -d
 `
