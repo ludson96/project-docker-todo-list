@@ -41,4 +41,8 @@ docker-compose up -d
 
 ##
 
+#### Primeiro projeto usando MySQL
+
+##
+
 > Aplicação em execução fornecida pela Trybe
