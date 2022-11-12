@@ -41,7 +41,7 @@ docker-compose up -d
 
 ##
 
-#### Primeiro projeto usando MySQL
+#### Primeiro projeto usando do módulo Back-end e primeiro projeto usando Docker
 
 ##
 
