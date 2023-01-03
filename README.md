@@ -42,7 +42,7 @@ cd docker
 docker-compose up -d
 ```
 
-### Observação
+## Observação
 
 Dentro da pasta `docker/docker-commands` tem todos os comandos referentes aos requisitos propostos pela Trybe.
 
