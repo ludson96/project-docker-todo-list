@@ -1,7 +1,12 @@
+# Repositório do projeto Docker To-do list 
 
-# Projeto Docker To-do list 
+ ## Módulo: BACK-END
+ 
+  Repositório possui projeto desenvolvido no período que estive na <b>Trybe</b>, abordando os conceitos de conteinerização utilizando o docker. 
+  
+## Informações de aprendizados
 
-Neste projeto foi feito a conteinerização de aplicações, criação de uma conexão entre elas e orquestrar o seu funcionamento.
+- Primeiro projeto utilizando conteinerização com docker.
 
 Foram criados dois arquivos dockerfiles 1 para aplicação front-end e outro para back-end.
 
