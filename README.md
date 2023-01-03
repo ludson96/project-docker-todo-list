@@ -46,6 +46,8 @@ docker-compose up -d
 
 Dentro da pasta `docker/docker-commands` tem todos os comandos referentes aos requisitos propostos pela Trybe.
 
+## Requisitos
+
 <details>
 
   ### 1. Crie um container em modo interativo, sem rodá-lo, nomeando-o como `01container` e utilizando a imagem `alpine` na versão `3.12`
