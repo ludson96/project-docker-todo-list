@@ -1,4 +1,4 @@
-# Repositório do projeto Docker To-do list 
+# Repositório do projeto Docker To-do list 🐳
 
  ## Módulo: BACK-END
  
